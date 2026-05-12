@@ -44,7 +44,7 @@ const sideMenu = [
 
 function Sidebar() {
     return (
-        <aside className="w-[300px] bg-white p-8 h-screen overflow-y-auto">
+        <aside className="w-[300px] bg-white px-5 py-8 h-screen overflow-y-auto">
 
             <div className="flex items-center gap-5">
                 <div className="bg-[#5D5FEF] w-[45px] h-[45px] rounded-lg flex justify-center items-center">
