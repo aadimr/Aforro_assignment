@@ -4,14 +4,12 @@ function Header() {
     return (
         <header className="flex items-center justify-between bg-white px-8 py-4">
             
-            {/* Title */}
             <h1 className="font-poppins font-semibold text-[24px] leading-[140%] text-[#151D48]">
                 Dashboard
             </h1>
 
             <div className="flex items-center gap-5">
 
-                {/* Search */}
                 <div className="px-3 flex items-center bg-[#F9FAFB] rounded-[8px]">
                     <img
                         src="/magnifier.svg"

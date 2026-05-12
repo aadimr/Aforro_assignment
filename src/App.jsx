@@ -30,7 +30,6 @@ function App() {
           ))}
         </Route>
 
-        {/* Optional root redirect */}
         <Route
           path="/"
           element={
