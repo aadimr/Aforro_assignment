@@ -36,12 +36,6 @@ npm install
 npm run dev
 ```
 
-## 5. Build for production
-
-```bash
-npm run build
-```
-
 ---
 
 # Features Implemented
