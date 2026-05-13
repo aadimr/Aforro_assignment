@@ -16,8 +16,55 @@ This project is a dashboard UI developed from a provided Figma design using Reac
 
 ```bash
 git clone https://github.com/aadimr/Aforro_assignment_Part1.git
+```
 
-## 2. Install node modules
+## 2. Navigate to the project directory
 
 ```bash
-npm i
+cd Aforro_assignment_Part1
+```
+
+## 3. Install dependencies
+
+```bash
+npm install
+```
+
+## 4. Start the development server
+
+```bash
+npm run dev
+```
+
+## 5. Build for production
+
+```bash
+npm run build
+```
+
+---
+
+# Features Implemented
+
+- Dashboard layout based on Figma design
+- Sidebar navigation
+- Statistics and analytics cards
+- Progress indicators
+- Reusable React components
+- Tailwind CSS styling
+- Clean component structure
+
+---
+
+# Assumptions & Decisions Made
+
+- The assignment was implemented mainly for desktop view based on the provided design.
+- Static/mock data was used where API integration was not specified.
+- Minor spacing and alignment adjustments were made for better UI consistency.
+- Responsive/mobile view was not implemented as it was not part of the provided requirements.
+
+---
+
+# Author
+
+Aditya Shaw
