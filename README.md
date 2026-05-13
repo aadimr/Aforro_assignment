@@ -2,6 +2,12 @@
 
 This project is a dashboard UI developed from a provided Figma design using React and Tailwind CSS.
 
+## Live Demo
+
+https://aforro-assignment-part1.vercel.app
+
+---
+
 ## Tech Stack
 
 - React.js
@@ -18,7 +24,7 @@ This project is a dashboard UI developed from a provided Figma design using Reac
 git clone https://github.com/aadimr/Aforro_assignment_Part1.git
 ```
 
-## 2. Navigate to the project directory(If cloning inside a different folder)
+## 2. Navigate to the project directory (if cloning inside a different folder)
 
 ```bash
 cd Aforro_assignment_Part1
