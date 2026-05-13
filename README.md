@@ -18,7 +18,7 @@ This project is a dashboard UI developed from a provided Figma design using Reac
 git clone https://github.com/aadimr/Aforro_assignment_Part1.git
 ```
 
-## 2. Navigate to the project directory
+## 2. Navigate to the project directory(If cloning inside a different folder)
 
 ```bash
 cd Aforro_assignment_Part1
@@ -61,7 +61,6 @@ npm run build
 - The assignment was implemented mainly for desktop view based on the provided design.
 - Static/mock data was used where API integration was not specified.
 - Minor spacing and alignment adjustments were made for better UI consistency.
-- Responsive/mobile view was not implemented as it was not part of the provided requirements.
 
 ---
 
