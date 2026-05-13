@@ -15,4 +15,4 @@ This project is a dashboard UI developed from a provided Figma design using Reac
 ## 1. Clone the repository
 
 ```bash
-git clone <your-github-repo-link>
+git clone https://github.com/aadimr/Aforro_assignment_Part1.git
