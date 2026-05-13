@@ -16,3 +16,8 @@ This project is a dashboard UI developed from a provided Figma design using Reac
 
 ```bash
 git clone https://github.com/aadimr/Aforro_assignment_Part1.git
+
+## 2. Install node modules
+
+```bash
+npm i
