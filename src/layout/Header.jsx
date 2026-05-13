@@ -1,4 +1,4 @@
-import LanguageDropdown from "../component/LanguageDropDown";
+import LanguageDropdown from "../component/LanguageDropdown";
 
 function Header() {
     return (
